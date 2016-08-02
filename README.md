@@ -1,2 +1,3 @@
 # ideas
-Ideas for discussion
+Ideas for discussion on:
+- Open interoperability and data exchange standards for smart connected health  
